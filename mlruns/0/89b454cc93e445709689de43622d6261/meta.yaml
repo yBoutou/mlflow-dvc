@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/youssefboutoulala/Learnings/mlflow/mlruns/0/89b454cc93e445709689de43622d6261/artifacts
+end_time: 1675202185864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89b454cc93e445709689de43622d6261
+run_name: youthful-shrimp-83
+run_uuid: 89b454cc93e445709689de43622d6261
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675202184446
+status: 3
+tags: []
+user_id: youssefboutoulala
